@@ -3,5 +3,4 @@
 
 - Fetch method used.
 
-  #GIF
-![](screen.gif)
+
